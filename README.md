@@ -2,7 +2,7 @@
 
 Um projeto de editor gráfico inspirado no Paint clássico, desenvolvido em **2018** como trabalho final da disciplina de **Programação Orientada a Objetos**, sob orientação do **Professor Dr. André Carvalho** — Turma 2018.2.
 
-**Autoras:** [Luzia (@zulia.zip)](https://github.com/zulia.zip) e [Roseane (@r0usis)](https://github.com/r0usis)
+**Autoras:** [Luzia (@luh450)](https://github.com/luh450) e [Roseane (@r0usis)](https://github.com/r0usis)
 
 ---
 
