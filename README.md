@@ -10,7 +10,7 @@ Um projeto de editor gráfico inspirado no Paint clássico, desenvolvido em **20
 
 O **Mini-Paint** é uma aplicação desktop desenvolvida em **Java** com interface gráfica via **Java Swing**. O projeto aplica os principais conceitos de POO — herança, polimorfismo, encapsulamento e tratamento de exceções — na construção de um editor de formas geométricas interativo.
 
-<img src="screenshots/4.jpeg" alt="Interface do Mini-Paint" width="700"/>
+<img src="screenshots/4.jpeg" alt="Interface do Mini-Paint" width="300"/>
 
 ### Funcionalidades
 
@@ -68,7 +68,7 @@ Paint/
 
 - **Java JDK 8** ou superior instalado
   - Verifique com: `java -version`
-  - Caso não tenha, baixe em: https://www.oracle.com/java/technologies/downloads/
+  - Caso não tenha, baixe em: <https://www.oracle.com/java/technologies/downloads/>
 
 ---
 
